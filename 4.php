@@ -4,7 +4,7 @@ include 'bomphd.php';
 /*
     https://github.com/sontolesquad/Spammer
     Made by Muhammad Zainul Ramadhan / Mrsontolex
-    Modified by まやちゃん
+    Modified by Zainul Ramadhan
 */
 
 $init = new Bom();
