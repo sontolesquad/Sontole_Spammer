@@ -9,8 +9,8 @@ include 'bommthrml.php';
 
 $init = new Bom();
 // Konfigurasi Akun Mataharimall
-$init->email = "zumupolij@c1oramn.com";
-$init->pass = "Hilih kintil";
+$init->email = "Mrsontolex@gmail.com";
+$init->pass = "Sontole";
 $init->Login($init->email,$init->pass);
 
 //Eksekusi Sms Boomber
