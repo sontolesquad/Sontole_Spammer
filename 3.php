@@ -2,7 +2,7 @@
 /*
     https://github.com/sontolesquad/Spammer
     Made by Muhammad Zainul Ramadhan / Mrsontolex
-    Modified by まやちゃん
+    Modified by SontoleSquad
 */
 
 include 'bommthrml.php';
