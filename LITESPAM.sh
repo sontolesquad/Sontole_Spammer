@@ -1,14 +1,14 @@
 #!/system/xbin/bash
 clear
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "Spammer"
 sleep 1
-echo "\033[31;1m Macam-macam tool untuk spam"
+echo "\033[31;1m Tersedia 6 tool untuk spam"
 sleep 1
-echo "\033[33;1m Author: Mr.Rm"
+echo "\033[33;1m Author: Mr.Sontolex / Muhammad Zainul Ramadhan"
 sleep 1
-echo "\033[32;1m ★contack: +15877711462"
+echo "\033[32;1m ★contack: Mrsontolex@gmail.com"
 sleep 1
-echo "\033[34;1m ★Indonesia Security Lite"
+echo "\033[34;1m Banyumas Cyber Team AND PERSIT2K18"
 sleep 1
 echo "\033[36;1m Spam Yang Tersedia :"
 echo "1. Tokopedia"
@@ -77,28 +77,28 @@ if
 [ $mrrm = 81 ] || [ $mrrm = 81 ]
 then
 clear
-toilet -f slant --gay "LiteSpam"
-echo "\033[31;1mNama tools: LiteSpam"
+toilet -f slant --gay "Spammer"
+echo "\033[31;1mNama tools: Spammer"
 sleep 1
-echo "\033[33;1mKarya: Mr.Rm (V2 By Mr.IM81)"
+echo "\033[33;1mKarya: Mrsontolex / Muhammad Zainul Ramadhan"
 sleep 1
 echo "\033[32;1mVersi: v2"
 sleep 1
-echo "\033[36;1mTeam: ★Indonesia Security Lite★"
+echo "\033[36;1mTeam: Banyumas Cyber Team And PERSIT2K18"
 sleep 1
 echo "\033[34;1mInformasi Lebih Lanjut Kunjungi: https://youtube.com/IndonesiaSecurityLite"
 echo "\033[31;1m Spesial Thanks To: "
 echo "\033[36;1m"
-echo "Handika Pratama"
+echo "Muhammad Zainul Ramadhan"
 echo "まやちゃん"
-echo "Baby Cyber Team"
-echo "SBG-Team"
-echo "Ponorogo Defacer Team"
+echo "Persit2K18"
+echo "SontoleSquad"
+echo "Banyumas Cyber Team"
 sleep 1
-echo "And All Member Indonesia Security Lite"
+echo "And All Friends Persit2K18"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
-sh LITESPAM.sh
+sh SONTOLE.sh
 fi
 
 if
