@@ -86,7 +86,7 @@ echo "\033[32;1mVersi: v2"
 sleep 1
 echo "\033[36;1mTeam: Banyumas Cyber Team And PERSIT2K18"
 sleep 1
-echo "\033[34;1mInformasi Lebih Lanjut Kunjungi: https://youtube.com/IndonesiaSecurityLite"
+echo "\033[34;1mInformasi Lebih Lanjut Kunjungi: Persit2k18.ga And https://www.youtube.com/channel/UC6zyFnBkMzIjj4Mj31hmGsQ"
 echo "\033[31;1m Spesial Thanks To: "
 echo "\033[36;1m"
 echo "Muhammad Zainul Ramadhan"
