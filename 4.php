@@ -2,8 +2,8 @@
 include 'bomphd.php';
 
 /*
-    https://github.com/nee48/BomSmsPhD
-    Made by Handika Pratama
+    https://github.com/sontolesquad/Spammer
+    Made by Muhammad Zainul Ramadhan / Mrsontolex
     Modified by まやちゃん
 */
 
